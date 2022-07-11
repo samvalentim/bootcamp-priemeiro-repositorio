@@ -10,7 +10,7 @@ Exemplos de comandos utilizandos no **Git**:
 * Git commit -m
 * Git push origin master
 
-No GitHub:
+No **GitHub**:
 * Novo repositório
 * Readme.md
 * Commit changes
