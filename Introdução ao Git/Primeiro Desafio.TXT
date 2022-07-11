@@ -1,0 +1,6 @@
+# Primeiros Desafio do Bootcamp
+
+_________________________
+
+* Este primeiro desafio consiste em 'commitar' um repositório no *GitHub* para testar meus conhecimentos em *Git* e *GitHub*, bem como em *Markdown*
+
