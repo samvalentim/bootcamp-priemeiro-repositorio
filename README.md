@@ -4,11 +4,13 @@
 Este desafio consiste em subir um repositório para o **GitHub** para testar meus conhecimentos. 
 
 Exemplos de comandos utilizandos no **Git**:
-* Git add .
-* echo
+* mkdir
+* Git clone
+* cd
 * Git status
+* Git add .
 * Git commit -m
-* Git push origin master
+* Git push origin main
 
 No **GitHub**:
 * Novo repositório
